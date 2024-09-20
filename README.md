@@ -1,0 +1,1 @@
+# idx_text_editor
